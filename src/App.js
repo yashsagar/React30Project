@@ -1,7 +1,9 @@
+import Project1App from "./Project-1/Project1App";
+
 const App = () => {
   return (
     <>
-      <div className="bg-red-400 w-24 h-24"> test</div>
+      <Project1App />
     </>
   );
 };
