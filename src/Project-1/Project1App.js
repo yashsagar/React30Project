@@ -1,10 +1,10 @@
 import Title from "../component/Title";
-import MainBody from "./component/MainBody";
+import MainBodyP1 from "./component/MainBodyP1";
 const Project1App = () => {
   return (
     <>
       <Title>Project 1 E-signature</Title>
-      <MainBody />
+      <MainBodyP1 />
     </>
   );
 };
